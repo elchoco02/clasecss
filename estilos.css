@@ -1,0 +1,21 @@
+p{ 
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+     color: #67FF32;
+    text-align:justify;
+
+}
+body{
+    background-color:rgb(255, 8, 0)(165, 164, 164) ;
+}
+main{
+    background-color: salmon;
+}
+header{
+    background-color: sienna;
+}
+footer{
+    background-color:blue;
+}
