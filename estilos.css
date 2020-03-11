@@ -8,14 +8,22 @@ p{
 
 }
 body{
-    background-color:rgb(255, 8, 0)(165, 164, 164) ;
+    background-color:green;
 }
 main{
-    background-color: salmon;
+    background-color: yellow;
 }
 header{
     background-color: sienna;
 }
 footer{
     background-color:blue;
+}
+.parrafo1{
+    font-size: 85px;
+
+
+}
+.parrafo2{
+    color: white;
 }
